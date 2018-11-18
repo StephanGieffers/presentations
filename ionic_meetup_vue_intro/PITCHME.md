@@ -1,5 +1,9 @@
-## Vue.js primer for Ionic / Angular Devs
+# Vue.js primer for Ionic / Angular Devs
+
 Stephan Gieffers
+
+IONIC Meeting Berlin, November 14th, 2018
+
 ---
 #### Vue.js - Why do we care?
 - buzz
